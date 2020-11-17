@@ -82,7 +82,6 @@
       drawer: null,
       items: [
           { title: 'Todo', icon: 'mdi-format-list-checks', to: '/' },
-          { title: 'Photos', icon: 'mdi-image' },
           { title: 'About', icon: 'mdi-help-box', to: '/about' },
         ]
       }),
